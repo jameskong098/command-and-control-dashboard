@@ -17,9 +17,9 @@ Brandon J. Lacy (blacy@brandeis.edu | <a href="https://www.linkedin.com/in/lacyb
 ### Submission Date
 May 5, 2023
 
-### [GitHub Repository](https://github.com/campusrover/command-control)
+### [GitHub Repository](https://github.com/jameskong098/command-and-control-dashboard)
 
-### [Demo Video](https://drive.google.com/file/d/1rHtsc1CRaTcZBSHshnaT67a7QopKqpH5/view?usp=share_link)
+### [Demo Video](https://drive.google.com/file/d/1iuutRBc6NnZM6ZM_Ar_xH3lePThFIvxZ/preview)
 
 ## Table of Contents
 1. [Introduction](#introduction) 
